@@ -2,7 +2,9 @@
 
 End-to-end analysis of a UK online retailer's transaction data, ending with an RFM-based customer segmentation using K-Means.
 
-The notebook is committed with all cells executed, so the charts and tables render inline on GitHub.
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KelsonLam/ecommerce-customer-analytics/blob/main/ecommerce_analysis.ipynb)
+
+The notebook is committed with all cells executed, so the charts and tables render inline on GitHub. To re-run it in Colab, add the dataset to a `data/` folder first (the file is around 45 MB, too large to ship in the repo, see the Data section below).
 
 ## Preview
 
