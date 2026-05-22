@@ -2,6 +2,16 @@
 
 End-to-end analysis of a UK online retailer's transaction data, ending with an RFM-based customer segmentation using K-Means.
 
+The notebook is committed with all cells executed, so the charts and tables render inline on GitHub.
+
+## Preview
+
+Customers segmented on their Recency, Frequency, and Monetary values, shown in PCA space, alongside how much revenue each segment drives.
+
+| Segments (PCA view) | Revenue by segment |
+|--------------------|--------------------|
+| ![Customer segments in PCA space](figures/segments_pca.png) | ![Revenue contribution per segment](figures/segment_revenue.png) |
+
 ## What's in here
 
 - **`ecommerce_analysis.ipynb`** - the full notebook (cleaning, EDA, geospatial, RFM clustering)
